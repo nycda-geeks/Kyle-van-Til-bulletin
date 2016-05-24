@@ -1,0 +1,19 @@
+{
+  "name": "bulletin-kyle",
+  "version": "1.0.0",
+  "description": "Full stack app NYCDA project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nycda-geeks/Kyle-van-Til-bulletin.git"
+  },
+  "author": "Kyle van Til",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nycda-geeks/Kyle-van-Til-bulletin/issues"
+  },
+  "homepage": "https://github.com/nycda-geeks/Kyle-van-Til-bulletin#readme"
+}
