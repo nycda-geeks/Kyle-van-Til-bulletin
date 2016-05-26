@@ -1,0 +1,18 @@
+Bulletin board application:
+--------------------------------------------------------------------------------------------------------------------
+	- Create repository/Add Package.json, app, index - Push to Github
+--------------------------------------------------------------------------------------------------------------------
+	- In index create a simple layout 
+		- Should contain nav-bar.
+		- Should contain a link in the nav-bar to the message page.
+		- Should contain simple css content to make page pretty 
+		- Push to Github
+--------------------------------------------------------------------------------------------------------------------
+	- Create a from element
+		- Should contain two seperate input fields: Title and Body.
+		- Should contain a sumbit button wich will send user to the message page.
+		- Push to Github
+	- Create Second page
+		- Page should contain all prior messages and new ones submitted.
+		- Page should have same design as the input page (including links etc.).
+	- 

@@ -1,0 +1,19 @@
+<DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="stylesheets/style.css">
+<body>
+
+<a href='/'>Home</a>
+<a href='/submitted'>Board</a>
+	<table> 
+		<% for(var i = 0; i < messages.length; i++ ) {  %> 
+			<tr> 
+				<td> <%= messages[i].id %></td>
+				<td> <%= messages[i].title %></td>
+				<td> <%= messages[i].body %></td>
+			</tr>
+		<% 	} %>
+		</table>
+		<p>hoooi</p>
+		</body>
